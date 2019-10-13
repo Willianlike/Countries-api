@@ -5,15 +5,11 @@ use_frameworks!
 def shared_pods
     pod 'Moya'
     pod 'Moya/RxSwift'
-    pod 'SDWebImage/WebP'
     pod 'SwiftyJSON'
     
     pod 'RxSwift'
     pod 'RxCocoa'
-    pod 'RxGesture'
     pod 'RxDataSources'
-    
-    pod 'Swinject'
     
     pod 'Cartography'
 end
